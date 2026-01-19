@@ -155,7 +155,7 @@
 
     <div class="brand-card">
         <div class="header">
-            <span class="badge">Professional Portfolio</span>
+            <span class="badge">Food & Beverage Operations Specialist</span>
             <h1>Migi Setyo Sugiarto Adi</h1>
             <div class="location">Semarang, Indonesia | migisetyosa@gmail.com</div>
         </div>
