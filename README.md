@@ -1,8 +1,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-      <title>Professional Profile - Migi Setyo Sugiarto Adi</title>
-    <style>
+      <style>
         :root {
             --primary: #0f172a;
             --accent: #2563eb;
