@@ -1,8 +1,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Profile - Migi Setyo Sugiarto Adi</title>
+      <title>Professional Profile - Migi Setyo Sugiarto Adi</title>
     <style>
         :root {
             --primary: #0f172a;
