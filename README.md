@@ -158,11 +158,11 @@
         <div class="section-grid">
             <div class="box">
                 <h3>Tentang Saya</h3>
-                <p style="font-size: 14px; margin: 0;">Profesional F&B dengan 5+ tahun pengalaman. Ahli dalam operasional toko, manajemen inventory (Cost Control), dan kepemimpinan tim.</p>
+                <p style="font-size: 14px; margin: 0;">Profesional F&B dengan lebih dari 5 tahun pengalaman. Ahli dalam operasional toko, manajemen inventory (Cost Control), dan kepemimpinan tim.</p>
             </div>
             <div class="box">
                 <h3>Tujuan Karir</h3>
-                <p style="font-size: 14px; margin: 0;">Meningkatkan efisiensi operasional dan pertumbuhan bisnis melalui peran strategis di bidang Purchasing atau Management.</p>
+                <p style="font-size: 14px; margin: 0;">Meningkatkan efisiensi operasional dan pertumbuhan bisnis melalui peran strategis di bidang Production atau Management.</p>
             </div>
         </div>
 
