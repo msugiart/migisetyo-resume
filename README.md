@@ -164,7 +164,7 @@
             <div class="info-card">
                 <h3>Executive Summary</h3>
                 <p>
-                    Profesional F&B dengan pengalaman lebih dari 5 tahun di bidang operasional restoran, bar, dan manajemen toko. Ahli dalam manajemen inventaris, kontrol biaya, serta kepemimpinan tim berbasis data[cite: 4, 5].
+                    Profesional F&B dengan pengalaman lebih dari 5 tahun di bidang operasional restoran, bar, dan manajemen toko. Ahli dalam manajemen inventaris, kontrol biaya, serta kepemimpinan tim berbasis data.
                 </p>
             </div>
             <div class="info-card">
